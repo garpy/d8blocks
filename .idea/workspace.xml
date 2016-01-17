@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa072de3-609b-455a-afe4-9f4aca8e1c94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/HelloBlock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/step2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/HelloBlock.php" afterPath="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/HelloBlock.php" />
     </list>
     <ignored path="hello-world-sacdug.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,14 +68,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloBlock.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloBlock.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/HelloBlock.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52249634">
-              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            <state vertical-scroll-proportion="-16.875">
+              <caret line="28" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="2" />
               <folding>
                 <element signature="e#6#133#0#PHP" expanded="true" />
+                <element signature="e#179#211#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="step2.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/step2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32678822">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,6 +117,7 @@
         <option value="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/Step1.php" />
         <option value="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/step1.txt" />
         <option value="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/HelloBlock.php" />
+        <option value="$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/step2.txt" />
       </list>
     </option>
   </component>
@@ -313,9 +327,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1767" y="-381" width="1400" height="833" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -505,11 +519,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/HelloBlock.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52249634">
-          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        <state vertical-scroll-proportion="-16.875">
+          <caret line="28" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="2" />
           <folding>
             <element signature="e#6#133#0#PHP" expanded="true" />
+            <element signature="e#179#211#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/hello_world/src/Plugin/Block/step2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32678822">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
