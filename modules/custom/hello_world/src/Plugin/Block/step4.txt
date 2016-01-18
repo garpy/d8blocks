@@ -48,22 +48,22 @@ class HelloBlock extends BlockBase implements BlockPluginInterface {
         $this->setConfigurationValue('name', $form_state->getValue('hello_block_name'));
     }
 
-    public function build() {
+     public function build() {
         $config = $this->getConfiguration();
 
         if (!empty($config['name'])) {
-            $name = $config['name'];
+          $name = $config['name'];
         }
         else {
-            $name = $this->t('to no one');
+          $name = $this->t('to no one');
         }
         return array(
-            '#markup' => $this->t('Hello @name!', array (
-                    '@name' => $name,
-                )
-            ),
+          '#markup' => $this->t('Hello @name!', array (
+              '@name' => $name,
+            )
+          ),
         );
-    }
+      }
 }
 ?>
 
