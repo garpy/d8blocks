@@ -145,6 +145,7 @@ abstract class BlockBase extends ContextAwarePluginBase implements BlockPluginIn
   /**
    * {@inheritdoc}
    *
+   *
    * Creates a generic configuration form for all block types. Individual
    * block plugins can add elements to this form by overriding
    * BlockBase::blockForm(). Most block plugins should not override this
